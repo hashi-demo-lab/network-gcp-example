@@ -1,4 +1,4 @@
 network:
   project_id: hc-74c5998971954543b85856b66ab
-  network_name: tenant1_net_gcp_test
+  network_name: net-gcp-test
   shared_vpc_host: false
